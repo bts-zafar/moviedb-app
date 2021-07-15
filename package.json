@@ -2,7 +2,7 @@
   "name": "moviedb-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/bts-zafar/moviedbapp",
+  "homepage": "https://github.com/bts-zafar/moviedb-app",
   "dependencies": {
     "@material-ui/core": "^4.12.1",
     "@material-ui/icons": "^4.11.2",

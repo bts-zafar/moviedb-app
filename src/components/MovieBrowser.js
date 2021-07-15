@@ -6,7 +6,7 @@ import {makeStyles} from "@material-ui/core/styles"
 import CircularProgress from "@material-ui/core/CircularProgress"
 import {Movie} from "./types/movie-type"
 import Button from "@material-ui/core/Button"
-import {Loop} from "@material-ui/icons"
+import {BorderColor, Loop} from "@material-ui/icons"
 import MovieCardPlaceholder from "./placeholders/MovieCardPlaceholder"
 import MovieList, {MovieListItem} from "./MovieList"
 
@@ -21,9 +21,11 @@ const useStyles = makeStyles(theme => ({
     },
     button: {
         marginTop: 20,
+        color: 'white',
+        border: '1px solid white'
     },
     buttonProgress: {
-        color: theme.palette.primary,
+        color: theme.palette.secondary,
         animationDuration: '550ms',
         marginRight: 6
     },
