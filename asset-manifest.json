@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bts-zafar/moviedb-app/static/css/main.92273f4c.chunk.css",
-    "main.js": "/bts-zafar/moviedb-app/static/js/main.810ad9e7.chunk.js",
-    "main.js.map": "/bts-zafar/moviedb-app/static/js/main.810ad9e7.chunk.js.map",
-    "runtime-main.js": "/bts-zafar/moviedb-app/static/js/runtime-main.5fc0f774.js",
-    "runtime-main.js.map": "/bts-zafar/moviedb-app/static/js/runtime-main.5fc0f774.js.map",
-    "static/js/2.29246599.chunk.js": "/bts-zafar/moviedb-app/static/js/2.29246599.chunk.js",
-    "static/js/2.29246599.chunk.js.map": "/bts-zafar/moviedb-app/static/js/2.29246599.chunk.js.map",
-    "index.html": "/bts-zafar/moviedb-app/index.html",
-    "precache-manifest.0bb58030bdfcc017c4358d712799bbc1.js": "/bts-zafar/moviedb-app/precache-manifest.0bb58030bdfcc017c4358d712799bbc1.js",
-    "service-worker.js": "/bts-zafar/moviedb-app/service-worker.js",
-    "static/css/main.92273f4c.chunk.css.map": "/bts-zafar/moviedb-app/static/css/main.92273f4c.chunk.css.map",
-    "static/js/2.29246599.chunk.js.LICENSE": "/bts-zafar/moviedb-app/static/js/2.29246599.chunk.js.LICENSE",
-    "static/media/abstract_movie_poster.svg": "/bts-zafar/moviedb-app/static/media/abstract_movie_poster.bca418f3.svg"
+    "main.css": "/moviedb-app/static/css/main.92273f4c.chunk.css",
+    "main.js": "/moviedb-app/static/js/main.810ad9e7.chunk.js",
+    "main.js.map": "/moviedb-app/static/js/main.810ad9e7.chunk.js.map",
+    "runtime-main.js": "/moviedb-app/static/js/runtime-main.8187f6c5.js",
+    "runtime-main.js.map": "/moviedb-app/static/js/runtime-main.8187f6c5.js.map",
+    "static/js/2.29246599.chunk.js": "/moviedb-app/static/js/2.29246599.chunk.js",
+    "static/js/2.29246599.chunk.js.map": "/moviedb-app/static/js/2.29246599.chunk.js.map",
+    "index.html": "/moviedb-app/index.html",
+    "precache-manifest.1c4f26c735951d156e6e067da7067a63.js": "/moviedb-app/precache-manifest.1c4f26c735951d156e6e067da7067a63.js",
+    "service-worker.js": "/moviedb-app/service-worker.js",
+    "static/css/main.92273f4c.chunk.css.map": "/moviedb-app/static/css/main.92273f4c.chunk.css.map",
+    "static/js/2.29246599.chunk.js.LICENSE": "/moviedb-app/static/js/2.29246599.chunk.js.LICENSE",
+    "static/media/abstract_movie_poster.svg": "/moviedb-app/static/media/abstract_movie_poster.bca418f3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fc0f774.js",
+    "static/js/runtime-main.8187f6c5.js",
     "static/js/2.29246599.chunk.js",
     "static/css/main.92273f4c.chunk.css",
     "static/js/main.810ad9e7.chunk.js"
