@@ -1,0 +1,8 @@
+#inputID::placeholder {
+    color: #ff0000;
+    opacity: 1;
+}
+input.inputID::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+  }
